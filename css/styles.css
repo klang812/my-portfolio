@@ -31,7 +31,7 @@ h2 {
   background-color: whitesmoke;
   border: 2px solid black;
   margin-top: 30px;
-  padding-left: 10px;
+  padding: 30px 30px 30px 10px;
   box-sizing: border-box;
 }
 
@@ -41,6 +41,13 @@ h2 {
   background-color: whitesmoke;
   border: 2px solid black;
   margin-top: 30px;
-  padding: 0 0 174px 10px;
+  padding: 30px 30px 174px 30px;
+  box-sizing: border-box;
+}
+
+.card-body{
+  background-color: whitesmoke;
+  border: 2px solid black;
+  padding: 57px;
   box-sizing: border-box;
 }
