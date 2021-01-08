@@ -23,6 +23,7 @@ h1 {
   float: left;
   background-color: lime;
   border: 5%;
+  margin-top: 30px;
   
   }
 
@@ -31,4 +32,6 @@ h1 {
   float: right;
   background-color: olive;
   border: 5%;
+  margin-top: 30px;
+  padding-bottom: 35px;
 }
