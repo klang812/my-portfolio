@@ -1,17 +1,21 @@
-.my-image {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 10%;
+body {
+  background-color: cadetblue;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 900;
 }
 
 h2 {
   text-align: center;
 }
 
-h1 {
-  text-align: center;
-  font-weight: 900;
+.my-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
 }
 
 .body {
@@ -24,6 +28,7 @@ h1 {
   background-color: lime;
   border: 5%;
   margin-top: 30px;
+  padding-left: 10px;
   box-sizing: border-box;
 }
 
