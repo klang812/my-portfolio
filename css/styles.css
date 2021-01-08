@@ -27,8 +27,8 @@ h2 {
 .my-sidebar {
   width: 50%;
   float: left;
-  background-color: cornsilk;
-  border: 5%;
+  background-color: whitesmoke;
+  border: 2px solid black;
   margin-top: 30px;
   padding-left: 10px;
   box-sizing: border-box;
@@ -37,9 +37,9 @@ h2 {
 .code-sidebar {
   width: 50%;
   float: right;
-  background-color: darkgray;
-  border: 5%;
+  background-color: whitesmoke;
+  border: 2px solid black;
   margin-top: 30px;
-  padding: 0 0 155px 10px;
+  padding: 0 0 174px 10px;
   box-sizing: border-box;
 }
