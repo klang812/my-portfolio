@@ -2,5 +2,33 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 30%;
+  width: 10%;
+}
+
+h2 {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 900;
+}
+
+.body {
+  text-align: center;
+}
+
+.my-sidebar {
+  width: 50%;
+  float: left;
+  background-color: lime;
+  border: 5%;
+  
+  }
+
+.code-sidebar {
+  width: 50%;
+  float: right;
+  background-color: olive;
+  border: 5%;
 }
