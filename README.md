@@ -31,7 +31,7 @@ _This project was intended to test my knowledge using html and git commands. For
 * _Github_
 
 ## Github Pages Link
-* _
+* _https://klang812.github.io/my-portfolio/_
 
 ## Legal
 * Copyright (c) 2021 **_Kerry Lang_**
